@@ -45,3 +45,51 @@ Leistung: Zero-Trust-Architekturen können die Leistung beeinträchtigen.
 Fazit
 
 Zero-Trust-Architekturen sind ein effektiver Ansatz zur Verbesserung der Sicherheit von IT-Systemen. Die drei Codebeispiele können zusammen verwendet werden, um eine einfache Zero-Trust-Architektur zu implementieren.
+
+Hier eine Auflistung von möglichen Angriffsmuster dies dient zu Informationszwecken für Unternehmen die das Risiko eines Angriffes aktiv minimieren wollen.
+
+
+Cyber-Angriffsmuster
+
+Angriffsziele
+Daten: Diebstahl, Verschlüsselung, Manipulation
+Systeme: Ausschalten, Übernehmen, Manipulation
+Finanzen: Betrug, Erpressung
+Angriffsvektoren
+Phishing: Täuschung, Manipulation
+Malware: Infizieren, Ausnutzen
+Zero-Day-Exploits: Schwachstellen ausnutzen
+Social Engineering: Manipulation, Täuschung
+Angriffstechniken
+Passwort-Hacking: Passwörter knacken
+Man-in-the-Middle-Angriff: Daten abfangen
+DoS-Angriff: Systeme lahmlegen
+Ransomware: Systeme verschlüsseln und Lösegeld fordern
+Zero-Day-Exploits: Schwachstellen ausnutzen
+Angriffsziele
+
+Cyberangriffe können verschiedene Ziele haben. Am häufigsten sind das Diebstahl, die Verschlüsselung oder die Manipulation von Daten. Auch die Ausschaltung oder Übernahme von Systemen oder der Betrug und die Erpressung von Finanzen sind mögliche Ziele.
+
+Angriffsvektoren
+
+Cyberangriffe können über verschiedene Wege erfolgen. Ein beliebter Weg ist das Phishing, bei dem die Angreifer die Opfer mit gefälschten E-Mails oder Websites täuschen und so an ihre Zugangsdaten gelangen. Auch Malware, also Schadsoftware, wird häufig für Cyberangriffe eingesetzt. Zero-Day-Exploits sind Schwachstellen in Software, die noch nicht bekannt sind und von den Herstellern nicht behoben wurden. Social Engineering ist eine Methode, bei der die Angreifer die Opfer psychologisch manipulieren, um an ihre Daten oder Informationen zu gelangen.
+
+Angriffstechniken
+
+Die Angreifer verwenden eine Vielzahl von Techniken, um ihre Ziele zu erreichen. Ein beliebtes Mittel ist das Knacken von Passwörtern. Man-in-the-Middle-Angriffe werden eingesetzt, um Daten abzugreifen, die zwischen zwei Parteien übertragen werden. DoS-Angriffe werden eingesetzt, um Systeme lahmzulegen. Ransomware verschlüsselt Daten und fordert von den Opfern Lösegeld. Zero-Day-Exploits werden eingesetzt, um Schwachstellen in Software auszunutzen.
+
+Weitere Angriffsmuster
+
+Neben den oben genannten Angriffsmustern gibt es noch weitere, die von Cyberkriminellen eingesetzt werden. Dazu gehören unter anderem:
+
+Supply-Chain-Angriffe: Die Angreifer infiltrieren die Lieferkette eines Unternehmens und infizieren dort Systeme mit Malware.
+Insider-Angriffe: Die Angreifer sind Mitarbeiter oder Geschäftspartner des Unternehmens und haben Zugang zu sensiblen Daten.
+IoT-Angriffe: Die Angreifer infizieren IoT-Geräte, wie zum Beispiel Smart-Home-Geräte oder Industrieanlagen, mit Malware.
+Vorsorgemaßnahmen
+
+Um sich vor Cyberangriffen zu schützen, sollten Unternehmen folgende Vorsorgemaßnahmen treffen:
+
+Cyber-Awareness der Mitarbeiter erhöhen: Mitarbeiter sollten über Cyberangriffe und die Gefahren von Phishing, Malware und anderen Angriffsmethoden Bescheid wissen.
+IT-Sicherheitssysteme und -prozesse implementieren: Unternehmen sollten angemessene IT-Sicherheitssysteme und -prozesse implementieren, um ihre Systeme und Daten vor Angriffen zu schützen.
+Regelmäßige Sicherheitsupdates durchführen: Softwarehersteller veröffentlichen regelmäßig Sicherheitsupdates, um Schwachstellen zu beheben. Unternehmen sollten diese Updates zeitnah installieren, um sich vor Zero-Day-Exploits zu schützen.
+Durch die Umsetzung dieser Maßnahmen können Unternehmen das Risiko von Cyberangriffen verringern.
